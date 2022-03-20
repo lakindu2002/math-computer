@@ -1,5 +1,5 @@
 import "./App.css";
-import { add, divide, isEven, isOdd, multiply, subtract } from "math-computer";
+import { add, divide, isEven, isOdd, multiply, subtract } from "math-computers";
 
 const App = () => {
   const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
